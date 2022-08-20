@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hapizulhaditya@gmail.com**
 
-- ⚡ Fun fact **i love cat**
+- ⚡ Fun fact **guitar is my best friend**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
