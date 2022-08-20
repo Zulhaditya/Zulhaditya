@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2017/08/20/14/37/eat-2661935_960_720.jpg)](https://zulhaditya.io)
 <h1 align="center">Hi 👋, I'm Zulhaditya</h1>
-<h3 align="center">A junior frontend web developer from Indonesia</h3>
+<h3 align="center">A junior frontend web developer from Special Region of Yogyakarta, Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulhaditya&label=Profile%20views&color=0e75b6&style=flat" alt="zulhaditya" /> </p>
 
