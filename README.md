@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hapizulhaditya@gmail.com**
 
-- ⚡ Fun fact **I love cat**
+- ⚡ Fun fact **i never forget to watch my favorite anime :v**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
