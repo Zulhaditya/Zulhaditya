@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2017/08/20/14/37/eat-2661935_960_720.jpg)](https://rishavchanda.io)
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zulhaditya</h1>
 <h3 align="center">A junior frontend web developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
