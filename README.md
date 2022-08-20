@@ -1,4 +1,3 @@
-![MasterHead](https://wallpaper.dog/large/238783.jpg)
 <h1 align="center">Hi 👋, I'm Zulhaditya</h1>
 <h3 align="center">A junior frontend web developer from Kepulauan Riau, Indonesia</h3>
 
