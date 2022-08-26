@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zulhaditya&label=Profile%20views&color=0e75b6&style=flat" alt="zulhaditya" /> </p>
 
-- 🌱 I’m currently learning **React**
+- :anchor: I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://itsmyportofolio.netlify.app/](https://itsmyportofolio.netlify.app/)
 
