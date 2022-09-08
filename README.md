@@ -5,7 +5,7 @@
 
 - :anchor: I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://itsmyportofolio.netlify.app/](https://itsmyportofolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://zulhaditya.netlify.app/](https://zulhaditya.netlify.app/)
 
 - 💬 Ask me about **React and Javascript**
 
