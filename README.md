@@ -3,15 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zulhaditya&label=Profile%20views&color=0e75b6&style=flat" alt="zulhaditya" /> </p>
 
-- :anchor: I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [https://zulhaditya.netlify.app/](https://zulhaditya.netlify.app/)
-
-- 💬 Ask me about **React and Javascript**
-
-- 📫 How to reach me **hapizulhaditya@gmail.com**
-
-- ⚡ Fun fact **guitar is my best friend**
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
