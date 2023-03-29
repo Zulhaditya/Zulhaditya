@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Zulhaditya</h1>
-<h3 align="center">A junior frontend web developer from Kepulauan Riau, Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zulhaditya&label=Profile%20views&color=0e75b6&style=flat" alt="zulhaditya" /> </p>
 
