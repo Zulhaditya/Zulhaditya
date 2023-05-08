@@ -1,5 +1,3 @@
-<h1 align="center">Have a nice day!</h1>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zulhaditya&label=Profile%20views&color=0e75b6&style=flat" alt="zulhaditya" /> </p>
 
 <h3 align="left">Connect with me:</h3>
