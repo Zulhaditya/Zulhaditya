@@ -13,13 +13,6 @@
       height="40"
     />&nbsp;
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"
-      title="Express"
-      alt="Express"
-      width="40"
-      height="40"
-    />&nbsp;
-    <img
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
       title="React"
       alt="React"
@@ -30,6 +23,13 @@
       src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
       title="NodeJS"
       alt="NodeJS"
+      width="40"
+      height="40"
+    />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg"
+      title="Debian"
+      alt="Debian"
       width="40"
       height="40"
     />&nbsp;
