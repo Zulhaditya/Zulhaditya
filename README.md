@@ -27,11 +27,26 @@
       height="40"
     />&nbsp;
     <img
+      src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"
+      title="NPM"
+      alt="NPM"
+      width="40"
+      height="40"
+    />&nbsp;
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+      title="Tailwindcss"
+      alt="Tailwindcss"
+      width="40"
+      height="40"
+    />&nbsp;
+    <img
       src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg"
       title="Debian"
       alt="Debian"
       width="40"
       height="40"
     />&nbsp;
+    
   </div>
 <hr>
