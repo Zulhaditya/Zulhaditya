@@ -6,6 +6,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <div>
     <img
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
+      title="NodeJS"
+      alt="NodeJS"
+      width="40"
+      height="40"
+    />&nbsp;
+    <img
       src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg"
       title="MongoDB"
       alt="MongoDB"
@@ -19,10 +26,10 @@
       width="40"
       height="40"
     />&nbsp;
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
-      title="NodeJS"
-      alt="NodeJS"
+     <img
+      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+      title="Tailwindcss"
+      alt="Tailwindcss"
       width="40"
       height="40"
     />&nbsp;
@@ -34,9 +41,9 @@
       height="40"
     />&nbsp;
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
-      title="Tailwindcss"
-      alt="Tailwindcss"
+      src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"
+      title="Jest"
+      alt="Jest"
       width="40"
       height="40"
     />&nbsp;
