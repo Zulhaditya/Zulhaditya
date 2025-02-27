@@ -26,6 +26,13 @@
       width="40"
       height="40"
     />&nbsp;
+     <img
+      src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
+      title="Vuejs"
+      alt="Vuejs"
+      width="40"
+      height="40"
+    />&nbsp;
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"
       title="MySQL"
