@@ -30,4 +30,5 @@
 
 ## GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zulhaditya&layout=compact&theme=dark&hide=html,css)](https://github.com/zulhaditya)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zulhaditya&layout=compact&theme=dark&hide=html,css)](https://github.com/zulhaditya)<br>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
