@@ -1,9 +1,5 @@
 ![Header](/img/github-header-image.png)
 
-# Zulhaditya
-
-**Software Developer | Guitarist**
-
 ## About Me
 
 - Linux user focused on system programming and network security
