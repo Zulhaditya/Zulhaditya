@@ -1,4 +1,4 @@
-![Header](/img/header.png)
+![Header](/img/hand-header.png)
 
 ## About Me
 
